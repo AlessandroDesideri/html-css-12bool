@@ -1,0 +1,27 @@
+.rect{
+    border: 1px white solid;
+    color: white;
+    text-align: center;
+    background: #006EFF;
+    height: 60px;
+    line-height: 60px;
+}
+
+.rect-cont{
+    padding: 10px;
+
+}
+
+.green{
+    background: #00E552;
+    border: 1px #006EFF solid;
+    height: 38px;
+    line-height: 38px;
+}
+
+.white{
+    color: black;
+    background: white;
+    text-align: left;
+    
+}
