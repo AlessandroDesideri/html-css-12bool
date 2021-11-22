@@ -1,0 +1,41 @@
+.rect{
+    background:tomato ;
+    height: 97px;
+    border: 1px black solid;
+}
+
+.grey{
+    background: grey;
+}
+
+.lightgrey{
+    background: #B2B2B2;
+}
+
+.darkgrey{
+    background: #7F7F7F;
+}
+
+.darkergrey{
+    background: #727272;
+}
+
+.blue{
+    background: #025AB4;
+}
+
+.lightblue{
+    background: #0464D4;
+}
+
+.gold{
+    background: #FFBE00;
+}
+
+.darkgold{
+    background: #B18500;
+}
+
+.black{
+    background: black;
+}
